@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Script Documentation
+Script Documentation.
 """
 import requests
 from sys import argv
